@@ -4,13 +4,8 @@
 </h3>
 
 <p align="center">
-  
-<a href="https://www.linkedin.com/in/joao-vitor-moura/">
-  <img alt="João Vitor LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" />
-</a>
-<a href="mailto:joaovitordmrosa@gmail.com">
-  <img alt="João Vitor Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
+ <img src = "./giphy.gif" width = "300" height = "300" align = "center">
+
 
 </p>
 
@@ -22,6 +17,7 @@
 - 👓 I'm currently a Software Development Intern at Vobi
 - 🎧 I love music and hangout with my friends
 - 💻 Always interested in starting a new project
+
 
 ## 🛠️ Tools and Technologies
 
