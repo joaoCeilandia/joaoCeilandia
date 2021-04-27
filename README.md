@@ -40,7 +40,7 @@
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![github](https://img.shields.io/badge/-github-2D9EA2?&style=for-the-badge&logo=github&logoColor=white) 
-![c++](https://img.shields.io/badge/C++%20-%23CC0000.svg?&style=for-the-badge&logo=c&logoColor=white)
+![c++](https://img.shields.io/badge/C++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![c](https://img.shields.io/badge/C%20-%23CC0000.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?&style=for-the-badge&logo=node.js&logoColor=white)
