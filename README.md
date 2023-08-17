@@ -19,15 +19,6 @@
 </p>
 
 
-## About Me:
-
-- 🎓 I'm currently on 8th period of Software Engineering at Universidade de Brasília
-- 🕹 In free time you will find me playing Magic The Gathering, Pokémon or watching anime
-- 👓 I'm currently a Software Development Intern at Vobi
-- 🎧 I love music and hangout with my friends
-- 💻 Always interested in starting a new project
-
-
 ## 🛠️ Tools and Technologies
 
 ![ReactJS](https://img.shields.io/badge/ReactJS%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white)
