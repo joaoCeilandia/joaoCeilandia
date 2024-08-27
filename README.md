@@ -11,12 +11,6 @@
 </a>
 </p>
 
-<p align="center">
- <img src = "./giphy.gif" width = "300" height = "300" align = "center">
-
-
-</p>
-
 
 ## 🛠️ Tools and Technologies
 
